@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>AllowPreReleaseInstallation</key>
+				<false />
+				<key>AutomaticallyInstallAppUpdates</key>
+				<false />
+				<key>AutomaticallyInstallMacOSUpdates</key>
+				<false />
+				<key>AutomaticDownload</key>
+				<false />
+				<key>ConfigDataInstall</key>
+				<false />
+				<key>PayloadDisplayName</key>
+				<string>Security Update</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.SoftwareUpdate.47d1f9f2-71bf-458b-a357-76a2fd1f44d5</string>
+				<key>PayloadType</key>
+				<string>com.apple.SoftwareUpdate</string>
+				<key>PayloadUUID</key>
+				<string>52accc8c-1bf8-482f-aad5-3c2f96acf201</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>SecurityUpdates</string>
+		<key>PayloadIdentifier</key>
+		<string>SecurityUpdates.c37ee7dc-ab77-43a1-8641-8d7ae6b02054</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>9b25b4ae-817f-465d-87cf-f689b9a16463</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
